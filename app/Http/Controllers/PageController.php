@@ -28,7 +28,7 @@ class PageController extends Controller
 
     public function showLandingPage(): View
     {
-        return $this->showPage('landing-page', 'landing-page-with-components');
+        return $this->showPage('landing-page', 'quidax');
     }
 
     public function showLandingPageSlug(string $pageSlug): View

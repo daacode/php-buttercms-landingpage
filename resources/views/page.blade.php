@@ -9,7 +9,6 @@
         <x-butter-cms-component :pageArray="$field" />
     @endforeach
 
-    <x-blog-section />
 
     <script src="/assets/js/tiny-slider.js"></script>
     <script src="/assets/js/client-slider.js"></script>

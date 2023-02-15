@@ -4,11 +4,10 @@
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                 <div class="footer-widget">
                     <div class="logo">
-                        <a href="https://buttercms.com">
-                            <img width="200" src="https://cdn.buttercms.com/PBral0NQGmmFzV0uG7Q6" alt="logo" loading="lazy">
-                        </a>
+                        <h3>Quidax</h3>
                     </div>
-                    <p class="desc">ButterCMS is your content backend. Build better with Butter.</p>
+                    <p class="desc">Experience the full power of an AI content generator that delivers premium results in seconds.
+</p>
                     <ul class="social-links">
                         <li><a href="#0"><i class="lni lni-facebook"></i></a></li>
                         <li><a href="#0"><i class="lni lni-linkedin"></i></a></li>
@@ -27,12 +26,11 @@
             </div>
 
             <div class="col-xl-3 col-lg-4 col-md-6">
+                <br>
+                <br>
+                <br>
                 <div class="footer-widget">
-                    <h3>Subscribe Newsletter</h3>
-                    <form action="#">
-                        <input type="email" placeholder="Email">
-                        <button class="main-btn btn-hover">Subscribe</button>
-                    </form>
+                    <div>© 2023 Quidax, Inc.</div>
                 </div>
             </div>
         </div>

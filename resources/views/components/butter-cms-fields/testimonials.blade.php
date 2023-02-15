@@ -15,11 +15,11 @@
                                     <i class="lni lni-quotation"></i>
                                 </div>
                                 <div class="content">
-                                    <p>{{$testimonial['quote']}}</p>
+                                    <p>{{$testimonial['content']}}</p>
                                 </div>
                                 <div class="info">
-                                    <h6>{{$testimonial['name']}}</h6>
-                                    <p>{{$testimonial['title']}}</p>
+                                    <h6>{{$testimonial['fullname']}}</h6>
+                                    <p>{{$testimonial['occupation']}}</p>
                                 </div>
                             </div>
                         @endforeach

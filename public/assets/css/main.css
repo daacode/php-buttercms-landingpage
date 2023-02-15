@@ -874,9 +874,8 @@ p {
 .hero-section::after {
   content: "";
   position: absolute;
-  width: 862px;
-  height: 862px;
-  border-radius: 50%;
+
+  /*border-radius: 50%;*/
   right: -150px;
   top: -150px;
   background: #99ECF2;
